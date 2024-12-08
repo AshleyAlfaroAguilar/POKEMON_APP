@@ -1,0 +1,30 @@
+.list-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    background-color: #F5F5F5; 
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  .list-container h1 {
+    color: #9370DB; 
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .load-more {
+    background-color: #9370DB; 
+    color: #FFFFFF; 
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 20px auto;
+  }
+  
+  .load-more:hover {
+    background-color: #7A5EB6; 
+  }
+  

@@ -1,0 +1,26 @@
+body {
+    background-color: #F5F5F5; 
+    color: #9370DB; 
+    font-family: Arial, sans-serif;
+  }
+  
+  button {
+    background-color: #9370DB;
+    color: #FFFFFF;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #7A5EB6; 
+  }
+  
+  .container {
+    background-color: #FFFFFF;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); 
+  }
+  
